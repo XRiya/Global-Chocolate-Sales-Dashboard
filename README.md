@@ -2,7 +2,7 @@
 This project showcases a simple yet effective **Sales Dashboard** built entirely using **Microsoft Excel**. It visualizes chocolate product sales data across various dimensions such as **product type**, **region**, **month**, and **salesperson performance**.
 
 ---
-
+![Image](https://github.com/user-attachments/assets/423b0698-114f-47b0-8a01-ab33e4cbebd5)
 ## 📊 Dashboard Overview
 
 The dashboard includes the following visual components:
